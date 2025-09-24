@@ -1,45 +1,44 @@
-📘 Course Outline
+📘 𝐂𝐨𝐮𝐫𝐬𝐞 𝐎𝐮𝐭𝐥𝐢𝐧𝐞  
+🐍 𝐏𝐲𝐭𝐡𝐨𝐧 𝐁𝐚𝐬𝐢𝐜𝐬 
+𝟏.𝟏 ✍️ 𝐂𝐨𝐫𝐞 𝐒𝐲𝐧𝐭𝐚𝐱, 𝐓𝐲𝐩𝐞 𝐒𝐲𝐬𝐭𝐞𝐦𝐬, 𝐎𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬 
+𝟏.𝟐 🔄 𝐂𝐨𝐧𝐭𝐫𝐨𝐥 𝐅𝐥𝐨𝐰 – 𝐋𝐨𝐨𝐩𝐬 & 𝐂𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐒𝐭𝐚𝐭𝐞𝐦𝐞𝐧𝐭𝐬 
+𝟏.𝟑 📦 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 – 𝐋𝐢𝐬𝐭, 𝐓𝐮𝐩𝐥𝐞, 𝐃𝐢𝐜𝐭𝐢𝐨𝐧𝐚𝐫𝐲, 𝐒𝐞𝐭 
+𝟏.𝟒 🔧 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬 & 𝐋𝐚𝐦𝐛𝐝𝐚 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬 
+𝟏.𝟓 📂 𝐌𝐨𝐝𝐮𝐥𝐞𝐬 & 𝐏𝐚𝐜𝐤𝐚𝐠𝐞𝐬 
+𝟏.𝟔 📑 𝐅𝐢𝐥𝐞 𝐇𝐚𝐧𝐝𝐥𝐢𝐧𝐠 
+𝟏.𝟕 ⚠️ 𝐄𝐱𝐜𝐞𝐩𝐭𝐢𝐨𝐧 𝐇𝐚𝐧𝐝𝐥𝐢𝐧𝐠  
 
-🐍 Python Basics
-1.1 ✍️ Core Syntax, Type Systems, Operators
-1.2 🔄 Control Flow – Loops & Conditional Statements
-1.3 📦 Data Structures – List, Tuple, Dictionary, Set
-1.4 🔧 Functions & Lambda Functions
-1.5 📂 Modules & Packages
-1.6 📑 File Handling
-1.7 ⚠️ Exception Handling
+🏗️ 𝐎𝐛𝐣𝐞𝐜𝐭-𝐎𝐫𝐢𝐞𝐧𝐭𝐞𝐝 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 (𝐎𝐎𝐏) 
+𝟐.𝟏 🧱 𝐂𝐥𝐚𝐬𝐬𝐞𝐬 & 𝐎𝐛𝐣𝐞𝐜𝐭𝐬 
+𝟐.𝟐 🧬 𝐈𝐧𝐡𝐞𝐫𝐢𝐭𝐚𝐧𝐜𝐞 
+𝟐.𝟑 🎭 𝐏𝐨𝐥𝐲𝐦𝐨𝐫𝐩𝐡𝐢𝐬𝐦  
 
-🏗️ Object-Oriented Programming (OOP)
-2.1 🧱 Classes & Objects
-2.2 🧬 Inheritance
-2.3 🎭 Polymorphism
+🚀 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐏𝐲𝐭𝐡𝐨𝐧 𝐂𝐨𝐧𝐜𝐞𝐩𝐭𝐬 
+𝟑.𝟏 🔁 𝐈𝐭𝐞𝐫𝐚𝐭𝐨𝐫𝐬 
+𝟑.𝟐 🎀 𝐃𝐞𝐜𝐨𝐫𝐚𝐭𝐨𝐫𝐬 
+𝟑.𝟑 ⚙️ 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐨𝐫𝐬 
+𝟑.𝟒 🔎 𝐑𝐞𝐠𝐮𝐥𝐚𝐫 𝐄𝐱𝐩𝐫𝐞𝐬𝐬𝐢𝐨𝐧𝐬 (𝐑𝐞𝐠𝐄𝐱)  
 
-🚀 Advanced Python Concepts
-3.1 🔁 Iterators
-3.2 🎀 Decorators
-3.3 ⚙️ Generators
-3.4 🔎 Regular Expressions (RegEx)
+📊 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 & 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 
+𝟒.𝟏 🔢 𝐍𝐮𝐦𝐏𝐲 
+𝟒.𝟐 📊 𝐏𝐚𝐧𝐝𝐚𝐬 
+𝟒.𝟑 📈 𝐌𝐚𝐭𝐩𝐥𝐨𝐭𝐥𝐢𝐛 
+𝟒.𝟒 🌈 𝐒𝐞𝐚𝐛𝐨𝐫𝐧  
 
-📊 Data Analysis & Visualization
-4.1 🔢 NumPy
-4.2 📊 Pandas
-4.3 📈 Matplotlib
-4.4 🌈 Seaborn
+🗄️ 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬 & 𝐒𝐭𝐨𝐫𝐚𝐠𝐞 
+𝟓.𝟏 💾 𝐒𝐐𝐋 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧 
+𝟓.𝟐 📜 𝐋𝐨𝐠𝐠𝐢𝐧𝐠 𝐢𝐧 𝐏𝐲𝐭𝐡𝐨𝐧  
 
-🗄️ Databases & Storage
-5.1 💾 SQL with Python
-5.2 📜 Logging in Python
+🌐 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 
+𝟔.𝟏 🧩 𝐅𝐥𝐚𝐬𝐤 (𝐖𝐞𝐛 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤) 
+𝟔.𝟐 🎨 𝐒𝐭𝐫𝐞𝐚𝐦𝐥𝐢𝐭 (𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐖𝐞𝐛 𝐀𝐩𝐩𝐬 𝐔𝐈) 
+𝟔.𝟑 🔌 𝐑𝐄𝐒𝐓𝐟𝐮𝐥 𝐀𝐏𝐈𝐬 𝐰𝐢𝐭𝐡 𝐉𝐒𝐎𝐍  
 
-🌐 Web Development
-6.1 🧩 Flask (Web Framework)
-6.2 🎨 Streamlit (Interactive Web Apps UI)
-6.3 🔌 RESTful APIs with JSON
+🛠️ 𝐒𝐲𝐬𝐭𝐞𝐦 & 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 
+𝟕.𝟏 🧹 𝐌𝐞𝐦𝐨𝐫𝐲 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 & 𝐆𝐚𝐫𝐛𝐚𝐠𝐞 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐨𝐧 
+𝟕.𝟐 🧵 𝐌𝐮𝐥𝐭𝐢𝐭𝐡𝐫𝐞𝐚𝐝𝐢𝐧𝐠 & 𝐌𝐮𝐥𝐭𝐢𝐩𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠  
 
-🛠️ System & Performance
-7.1 🧹 Memory Management & Garbage Collection
-7.2 🧵 Multithreading & Multiprocessing
-
-🌍 Data & AI
-8.1 📡 Web Data Scraping
-8.2 ✨ Prompt Engineering (For AI Apps)
-8.3 🤖 GenAI & LLM Apps
+🌍 𝐃𝐚𝐭𝐚 & 𝐀𝐈 
+𝟖.𝟏 📡 𝐖𝐞𝐛 𝐃𝐚𝐭𝐚 𝐒𝐜𝐫𝐚𝐩𝐢𝐧𝐠 
+𝟖.𝟐 ✨ 𝐏𝐫𝐨𝐦𝐩𝐭 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 (𝐅𝐨𝐫 𝐀𝐈 𝐀𝐩𝐩𝐬) 
+𝟖.𝟑 🤖 𝐆𝐞𝐧𝐀𝐈 & 𝐋𝐋𝐌 𝐀𝐩𝐩𝐬
